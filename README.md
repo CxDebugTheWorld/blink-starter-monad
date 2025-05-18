@@ -1,4 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Blink Starter Monad
+
+这是一个基于 Monad 区块链的 Blink 示例项目。
+
+## 功能
+- 支持捐赠 MON 代币
+- 使用 Wagmi 和 Viem 进行区块链交互
+
+## 安装
+运行以下命令安装依赖：
+
+```bash
+npm install
+```
+
+## 启动项目
+运行以下命令启动开发服务器：
+
+```bash
+npm run dev
+```
+
+## 许可证
+MIT
 
 ## Getting Started
 
